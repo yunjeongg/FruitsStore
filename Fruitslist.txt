@@ -1,0 +1,7 @@
+과일목록                색상
+========================
+tomato                  red
+peach                   pink
+Apple                    red
+Orange                orange
+Banana                 yellow
