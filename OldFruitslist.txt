@@ -1,4 +1,4 @@
-과일목록                색상
+과일목록                     색상
 ========================
-peach                    pink
-Apple                    red
+peach                        pink
+Apple                        red
